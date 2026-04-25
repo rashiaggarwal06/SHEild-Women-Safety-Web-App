@@ -1,0 +1,73 @@
+/* src/pages/VoiceDetection.css */
+.voice-detection {
+text-align: center;
+padding: 2rem;
+}
+
+.recording-control {
+margin-top: 2rem;
+}
+
+.btn {
+padding: 1rem 2rem;
+font-size: 1.2rem;
+border-radius: 5px;
+border: none;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.start {
+background-color: #4caf50;
+color: white;
+}
+
+.stop {
+background-color: #e91e63;
+color: white;
+}
+
+.btn:hover {
+opacity: 0.9;
+}
+
+.how-it-works {
+display: flex;
+justify-content: space-around;
+margin-top: 2rem;
+}
+
+.how-it-box {
+background-color: #f9f9f9;
+padding: 2rem;
+width: 30%;
+border-radius: 10px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+text-align: center;
+}
+
+.how-it-box h3 {
+font-size: 1.5rem;
+margin-bottom: 1rem;
+}
+
+.how-it-box p {
+font-size: 1.1rem;
+}
+
+.coming-soon-banner {
+margin-top: 2rem;
+font-size: 1.2rem;
+color: #e91e63;
+font-weight: bold;
+}
+
+.detected-voice-info {
+margin-top: 2rem;
+}
+
+.alert-message {
+margin-top: 1rem;
+color: red;
+font-weight: bold;
+}
