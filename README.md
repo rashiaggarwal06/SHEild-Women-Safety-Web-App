@@ -29,13 +29,13 @@ A full-stack women safety web application built with the MERN stack, designed to
 ## 📸 Screenshots
 
 ![SHEild Screenshot](Screenshots/S1.png)
-![SHEild Screenshot](S2.png)
-![SHEild Screenshot](S3.png)
-![SHEild Screenshot](S4.png)
-![SHEild Screenshot](S5.png)
-![SHEild Screenshot](S6.png)
-![SHEild Screenshot](S7.png)
-![SHEild Screenshot](S8.png)
+![SHEild Screenshot](Screenshots/S2.png)
+![SHEild Screenshot](Screenshots/S3.png)
+![SHEild Screenshot](Screenshots/S4.png)
+![SHEild Screenshot](Screenshots/S5.png)
+![SHEild Screenshot](Screenshots/S6.png)
+![SHEild Screenshot](Screenshots/S7.png)
+![SHEild Screenshot](Screenshots/S8.png)
 
 ---
 
